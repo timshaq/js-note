@@ -1,5 +1,5 @@
 # Объекты
-+ [О свойствах](https://github.com/timshaq/js-note/blob/main/objects/index.md)
++ [О свойствах](https://github.com/timshaq/js-note/blob/main/objects/props.md)
 + [Копирование объектов и ссылки](https://github.com/timshaq/js-note/blob/main/objects/cloning.md)
 + [Сборка мусора](https://github.com/timshaq/js-note/blob/main/objects/trash.md)
 + [Методы объекта, "this"](https://github.com/timshaq/js-note/blob/main/objects/this.md)
